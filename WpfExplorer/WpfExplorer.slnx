@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="WpfExplorer.Forms/WpfExplorer.Forms.csproj" />
+  <Project Path="WpfExplorer.Main/WpfExplorer.Main.csproj" />
+  <Project Path="WpfExplorer.Support/WpfExplorer.Support.csproj" />
+  <Project Path="WpfExplorer/WpfExplorer.csproj" />
+</Solution>
