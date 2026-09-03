@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Casino
 {
-    internal class Guy
+    internal class People
     {
         // Field 
         public string Name;
