@@ -21,7 +21,8 @@ namespace CaculateMain
             double divided = RollResult / DivideBy;
 
             // AddAmount를 나눗셈 결과에 더합니다.
-            int added = AddAmount += (int)divided;     // int added = AddAmount + (int)divided;
+            //int added = AddAmount += (int)divided;     
+            int added = AddAmount + (int)divided;
 
             // 계산 종료 후 AddAMount 원복
             AddAmount = lastAddAmount;
