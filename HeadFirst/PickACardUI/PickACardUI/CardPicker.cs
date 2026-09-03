@@ -18,6 +18,10 @@ namespace PickACardUI
             return pickedCards;
         }
 
+        /// <summary>
+        /// 카드의 종류를 반환합니다.
+        /// </summary>
+        /// <returns>종류 이름이 포함된 랜덤형 매서드</returns>
         private static string RandomSuit()
         {
             // 1~4 사이의 임의의 숫자를 뽑습니다.
